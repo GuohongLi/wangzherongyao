@@ -1,0 +1,1440 @@
+wangzherongyao_hero/铠/铠.txt
+铠.txt
+https://www.bilibili.com/video/av12308514
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12342263
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12989091
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15501656
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12274910
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/亚瑟/亚瑟.txt
+亚瑟.txt
+https://www.bilibili.com/video/av14291903
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12482912
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12852303
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7216105
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11744106
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/关羽/关羽.txt
+关羽.txt
+https://www.bilibili.com/video/av15049174
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15751597
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14247304
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11120166
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15292379
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/典韦/典韦.txt
+典韦.txt
+https://www.bilibili.com/video/av12488916
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11129911
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14178156
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12446036
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5167120
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/刘备/刘备.txt
+刘备.txt
+https://www.bilibili.com/video/av10318166
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13855688
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15511296
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12020033
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7545379
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/刘禅/刘禅.txt
+刘禅.txt
+https://www.bilibili.com/video/av12489641
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15456645
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8946794
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12813331
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11733425
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/刘邦/刘邦.txt
+刘邦.txt
+https://www.bilibili.com/video/av10946612
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15435619
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8686851
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12264856
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12427419
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/后羿/后羿.txt
+后羿.txt
+https://www.bilibili.com/video/av15718103
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15538093
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12443069
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5462156
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15228464
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/吕布/吕布.txt
+吕布.txt
+https://www.bilibili.com/video/av13373540
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10856053
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10837731
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11147754
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10804649
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/周瑜/周瑜.txt
+周瑜.txt
+https://www.bilibili.com/video/av14631248
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14722293
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13260506
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14463660
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14160981
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/哪吒/哪吒.txt
+哪吒.txt
+https://www.bilibili.com/video/av13711812
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12383462
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15656833
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13883321
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15762758
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/墨子/墨子.txt
+墨子.txt
+https://www.bilibili.com/video/av9217094
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14179141
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10071016
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12767979
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15761913
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/大乔/大乔.txt
+大乔.txt
+https://www.bilibili.com/video/av14116265
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av8758156
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15750294
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9110519
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8930703
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/妲己/妲己.txt
+妲己.txt
+https://www.bilibili.com/video/av12294979
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14297457
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11771700
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15552445
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13177066
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/嬴政/嬴政.txt
+嬴政.txt
+https://www.bilibili.com/video/av15765380
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10356191
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15708183
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12295448
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15655429
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/孙膑/孙膑.txt
+孙膑.txt
+https://www.bilibili.com/video/av15081886
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12383865
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11330570
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10505181
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12186378
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/小乔/小乔.txt
+小乔.txt
+https://www.bilibili.com/video/av15108381
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13282192
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14776216
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15736466
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7757617
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/庄周/庄周.txt
+庄周.txt
+https://www.bilibili.com/video/av12893924
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11107691
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7458477
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11196125
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11357849
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/廉颇/廉颇.txt
+廉颇.txt
+https://www.bilibili.com/video/av12853929
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12489928
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15667799
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11605779
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13749374
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/张良/张良.txt
+张良.txt
+https://www.bilibili.com/video/av12299835
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12488403
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14203120
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14077425
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8287775
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/张飞/张飞.txt
+张飞.txt
+https://www.bilibili.com/video/av13791720
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15736431
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13609305
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12367686
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13465508
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/扁鹊/扁鹊.txt
+扁鹊.txt
+https://www.bilibili.com/video/av14655520
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15378117
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5240377
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5417307
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13955094
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/曹操/曹操.txt
+曹操.txt
+https://www.bilibili.com/video/av10822642
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12176838
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14262376
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11794026
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12020033
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/李白/李白.txt
+李白.txt
+https://www.bilibili.com/video/av8930740
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10972258
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11137748
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13274110
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15151974
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/杨戬/杨戬.txt
+杨戬.txt
+https://www.bilibili.com/video/av14173201
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10511212
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15660337
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7879062
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14434740
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/梦奇/梦奇.txt
+梦奇.txt
+https://www.bilibili.com/video/av15156364
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15756418
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15744137
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15681566
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15682199
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/牛魔/牛魔.txt
+牛魔.txt
+https://www.bilibili.com/video/av14657649
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15384118
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12367700
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15229602
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9660891
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/甄姬/甄姬.txt
+甄姬.txt
+https://www.bilibili.com/video/av13045044
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15542304
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15136462
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15760342
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12488596
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/白起/白起.txt
+白起.txt
+https://www.bilibili.com/video/av14030828
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12972526
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13850941
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15533594
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av3691072
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/芈月/芈月.txt
+芈月.txt
+https://www.bilibili.com/video/av11441593
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12432844
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10380556
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11492342
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12888233
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/苏烈/苏烈.txt
+苏烈.txt
+https://www.bilibili.com/video/av14887546
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14883410
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15157461
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15612997
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15736652
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/虞姬/虞姬.txt
+虞姬.txt
+https://www.bilibili.com/video/av15708269
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11804562
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15681817
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13515853
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9902521
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/貂蝉/貂蝉.txt
+貂蝉.txt
+https://www.bilibili.com/video/av15727348
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13902701
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15679254
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15527682
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15745246
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/赵云/赵云.txt
+赵云.txt
+https://www.bilibili.com/video/av15765948
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15451872
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9295498
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15657835
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13934644
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/达摩/达摩.txt
+达摩.txt
+https://www.bilibili.com/video/av10825599
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15172137
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11832852
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14643258
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14478443
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/钟馗/钟馗.txt
+钟馗.txt
+https://www.bilibili.com/video/av12211121
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11917284
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15517773
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13613716
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12488029
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/阿轲/阿轲.txt
+阿轲.txt
+https://www.bilibili.com/video/av15765634
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10147338
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12596284
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14519829
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15565141
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/露娜/露娜.txt
+露娜.txt
+https://www.bilibili.com/video/av15702004
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av8487249
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9839290
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5587170
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15725802
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/韩信/韩信.txt
+韩信.txt
+https://www.bilibili.com/video/av12976142
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15705537
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13988729
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15762559
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10972258
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/项羽/项羽.txt
+项羽.txt
+https://www.bilibili.com/video/av12355842
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14206961
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9074077
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15718760
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5608046
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/黄忠/黄忠.txt
+黄忠.txt
+https://www.bilibili.com/video/av12603130
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av7242685
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10257561
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8472059
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7233086
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/兰陵王/兰陵王.txt
+兰陵王.txt
+https://www.bilibili.com/video/av13410961
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15674583
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15533401
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12175022
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11318892
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/夏侯惇/夏侯惇.txt
+夏侯惇.txt
+https://www.bilibili.com/video/av12294828
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av9458669
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14002745
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8860012
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5806355
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/姜子牙/姜子牙.txt
+姜子牙.txt
+https://www.bilibili.com/video/av14705209
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15267258
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15362133
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13662840
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15265706
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/孙尚香/孙尚香.txt
+孙尚香.txt
+https://www.bilibili.com/video/av4855049
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av6998577
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14515450
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15352993
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15696927
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/孙悟空/孙悟空.txt
+孙悟空.txt
+https://www.bilibili.com/video/av11061262
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11167018
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14705419
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15721898
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12354591
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/安琪拉/安琪拉.txt
+安琪拉.txt
+https://www.bilibili.com/video/av12604057
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13523959
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12482771
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10687197
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15514898
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/李元芳/李元芳.txt
+李元芳.txt
+https://www.bilibili.com/video/av13946970
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av11557765
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12242649
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15110273
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9582398
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/橘右京/橘右京.txt
+橘右京.txt
+https://www.bilibili.com/video/av8410577
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av8704806
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5729649
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8083053
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av7564776
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/武则天/武则天.txt
+武则天.txt
+https://www.bilibili.com/video/av8951153
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15416524
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9085320
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15742101
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13395487
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/狄仁杰/狄仁杰.txt
+狄仁杰.txt
+https://www.bilibili.com/video/av14615460
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av6203515
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12842648
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12844060
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10742668
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/王昭君/王昭君.txt
+王昭君.txt
+https://www.bilibili.com/video/av6995707
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15765947
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5719905
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11020106
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8641927
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/程咬金/程咬金.txt
+程咬金.txt
+https://www.bilibili.com/video/av12439921
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14621015
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8405476
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15764151
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15758193
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/老夫子/老夫子.txt
+老夫子.txt
+https://www.bilibili.com/video/av9997938
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15553415
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13250554
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9748778
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12313006
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/花木兰/花木兰.txt
+花木兰.txt
+https://www.bilibili.com/video/av15747155
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15736865
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9086133
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12200515
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13924169
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/蔡文姬/蔡文姬.txt
+蔡文姬.txt
+https://www.bilibili.com/video/av12812401
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10959557
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15501623
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12317159
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5647051
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/诸葛亮/诸葛亮.txt
+诸葛亮.txt
+https://www.bilibili.com/video/av9499989
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14270013
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14870924
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12226436
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13903622
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/钟无艳/钟无艳.txt
+钟无艳.txt
+https://www.bilibili.com/video/av15760845
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12441548
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9128399
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13851424
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av5756274
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/雅典娜/雅典娜.txt
+雅典娜.txt
+https://www.bilibili.com/video/av10553663
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13126702
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14115747
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15736955
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15244858
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/高渐离/高渐离.txt
+高渐离.txt
+https://www.bilibili.com/video/av12041285
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12810540
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14053832
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10335695
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9838484
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/鬼谷子/鬼谷子.txt
+鬼谷子.txt
+https://www.bilibili.com/video/av11713541
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12226125
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11885429
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12134877
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11713474
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/不知火舞/不知火舞.txt
+不知火舞.txt
+https://www.bilibili.com/video/av14080491
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15452477
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12483132
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15239686
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15692280
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/东皇太一/东皇太一.txt
+东皇太一.txt
+https://www.bilibili.com/video/av9800318
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12193048
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9640535
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9792177
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9110189
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/太乙真人/太乙真人.txt
+太乙真人.txt
+https://www.bilibili.com/video/av15767158
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12168602
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9879901
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av6678176
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12899308
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/娜可露露/娜可露露.txt
+娜可露露.txt
+https://www.bilibili.com/video/av15708421
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14430663
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15323116
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12630301
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12953811
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/宫本武藏/宫本武藏.txt
+宫本武藏.txt
+https://www.bilibili.com/video/av12197155
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av15047849
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av12381337
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av6553165
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13170199
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/干将莫邪/干将莫邪.txt
+干将莫邪.txt
+https://www.bilibili.com/video/av14776091
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av10518090
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av8022044
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13382308
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11211949
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/成吉思汗/成吉思汗.txt
+成吉思汗.txt
+https://www.bilibili.com/video/av11656408
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12397759
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13804960
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10557492
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11534669
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/百里守约/百里守约.txt
+百里守约.txt
+https://www.bilibili.com/video/av13284045
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av14480006
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13131751
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13216921
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15708766
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/百里玄策/百里玄策.txt
+百里玄策.txt
+https://www.bilibili.com/video/av14216187
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13774752
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av13686245
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14571174
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av15256856
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/马可波罗/马可波罗.txt
+马可波罗.txt
+https://www.bilibili.com/video/av15488502
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av13013344
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av14299378
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av9870806
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av6584969
+download_video.sh: line 15: cd: video: No such file or directory
+wangzherongyao_hero/鲁班七号/鲁班七号.txt
+鲁班七号.txt
+https://www.bilibili.com/video/av14255537
+[33;1myou-get: [error] oops, something went wrong.[0m
+[33;1myou-get: don't panic, c'est la vie. please try the following steps:[0m
+[33;1myou-get:   (1) Rule out any network problem.[0m
+[33;1myou-get:   (2) Make sure you-get is up-to-date.[0m
+[33;1myou-get:   (3) Check if the issue is already known, on[0m
+[33;1myou-get:         https://github.com/soimort/you-get/wiki/Known-Bugs[0m
+[33;1myou-get:         https://github.com/soimort/you-get/issues[0m
+[33;1myou-get:   (4) Run the command with '--debug' option,[0m
+[33;1myou-get:       and report this issue with the full output.[0m
+https://www.bilibili.com/video/av12653139
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av11454567
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av6788901
+download_video.sh: line 15: cd: video: No such file or directory
+https://www.bilibili.com/video/av10235839
+download_video.sh: line 15: cd: video: No such file or directory
